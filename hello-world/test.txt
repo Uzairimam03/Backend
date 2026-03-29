@@ -1,0 +1,2 @@
+Hey there is a testfunction toLocaleString() { [native code] }, Hey There
+3/29/2026, 3:36:19 PM, Hey There
